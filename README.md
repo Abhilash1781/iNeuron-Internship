@@ -3,15 +3,9 @@
 ## Table of contents
 * [Demo](#demo)
 * [Overview](#overview)
-* [Project Goal](#project-goal)
-* [Technical Aspects](#technical-aspects)
+* [Dataset](#dataset)
 * [Installation](#installation)
-* [Feature Request](#feature-request)
-* [Used Technologies](#used-technologies)
-* [Appendix](#appendix)
-* [Author](#author)
-* [License](#license)
-* [Feedback](#feedback)
+* [Technologies Used](#technologies-used)
 
   ## Demo
   Link for web application : https://aquatic-toxicity.streamlit.app/
@@ -53,7 +47,7 @@ Run on your Command prompt :
 streamlit run app.py
 ```
 
-## Technology used:
+## Technologies used:
 - #### Language
     - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
