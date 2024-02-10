@@ -41,3 +41,30 @@
 5) NdssC
 6) MLOGP
 7) quantitative response, LC50 [-LOG(mol/L)]
+
+## Installation
+To install the required packages and libraries, run this command in the project directory after cloning the repository:
+```bash
+pip install -r requirements.txt
+```
+Run on your Command prompt :
+
+```bash
+streamlit run app.py
+```
+
+## Technology used:
+- #### Language
+    - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+- #### Libraries
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ 
+
+- #### IDE
+  - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+
